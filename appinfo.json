@@ -1,0 +1,57 @@
+{
+    "uuid": "d2396c6b-22ff-424e-9634-e686f3eff598",
+    "shortName": "HEARTBEAT",
+    "longName": "HEARTBEAT animation meme",
+    "companyName": "nubbybubby",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "sdkVersion": "3",
+    "targetPlatforms": [  
+        "basalt",
+        "chalk"
+    ],
+    "watchapp": {
+        "watchface": false
+    },
+    "appKeys": {},
+        "resources": {
+            "media": [
+            {
+                "type": "bitmap",
+                "name": "IMAGE_ICON",
+                "file": "icon.png",
+                "menuIcon": true
+            },
+            {
+                "type": "raw",
+                "name": "CHAR1_PART1",
+                "file": "apngs/char1/char1_part1.png"
+            },
+            {
+                "type": "raw",
+                "name": "CHAR1_PART2",
+                "file": "apngs/char1/char1_part2.png"
+            },
+            {
+                "type": "raw",
+                "name": "CHAR1_PART3",
+                "file": "apngs/char1/char1_part3.png"
+            },
+            {
+                "type": "raw",
+                "name": "CHAR2_PART1",
+                "file": "apngs/char2/char2_part1.png"
+            },
+            {
+                "type": "raw",
+                "name": "CHAR2_PART2",
+                "file": "apngs/char2/char2_part2.png"
+            },
+            {
+                "type": "raw",
+                "name": "CHAR2_PART3",
+                "file": "apngs/char2/char2_part3.png"
+            }
+        ]
+    }
+}
